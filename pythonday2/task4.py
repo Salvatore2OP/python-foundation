@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+c = ( a<0 or b<0 ) 
+d = (a+b > 7)
+result = (c and d)
+print(result)

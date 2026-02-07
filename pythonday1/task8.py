@@ -1,0 +1,4 @@
+a = input()
+length= len(a)
+c = (a[0] != a[-1])
+print(c)
