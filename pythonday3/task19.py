@@ -12,5 +12,5 @@ remaining_10 = remaining_50 % 10
 
 rupee1 = int(remaining_10 / 1)
 
-print("500:" + str(rupee500) + "  " + "50:" + str(rupee50) + "  " + "10:" + str(rupee10) + "  " + "1:" + str(rupee1))
+print("500:" + str(rupee500) + "   " + "50: " + str(rupee50) + "  " + "10:" + str(rupee10) + "  " + "1:" + str(rupee1))
 
