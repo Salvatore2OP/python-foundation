@@ -7,5 +7,6 @@
 - pythonday5 : for loops(Part-1)
 - pythonday6 : Hollow Loops & Nested Loops(Part-2)
 - pythonday7 : Practice Loops
+- pythonday8 : Problems through Lists
 
 Each folder contains hands-on Python practice programs written from scratch.
